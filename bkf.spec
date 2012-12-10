@@ -42,3 +42,21 @@ rm -rf %{buildroot}
 %doc demo.sh LICENSE
 %attr(0755,root,root) %{_bindir}/bkf
 
+
+
+%changelog
+* Sun Dec 05 2010 Oden Eriksson <oeriksson@mandriva.com> 2.0-2mdv2011.0
++ Revision: 610075
+- rebuild
+
+* Sun Jan 17 2010 Oden Eriksson <oeriksson@mandriva.com> 2.0-1mdv2010.1
++ Revision: 492752
+- import bkf
+
+
+* Sun Jan 17 2010 Oden Eriksson <oeriksson@mandriva.com> 2.0-1mdv2010.0
+- renamed to just bkf
+- license is now GPLv2
+
+* Thu Jan 11 2007 Oden Eriksson <oeriksson@mandriva.com> 2.0-1mdv2007.1
+- initial Mandriva package
