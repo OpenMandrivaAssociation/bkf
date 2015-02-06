@@ -1,7 +1,7 @@
 Summary:	A simple client for BitMover
 Name:		bkf
 Version:	2.0
-Release:	%mkrel 2
+Release:	3
 License:	GPLv2
 Group:		Development/Other
 URL:		http://www.bitkeeper.com/
