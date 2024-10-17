@@ -4,7 +4,7 @@ Version:	2.0
 Release:	3
 License:	GPLv2
 Group:		Development/Other
-URL:		http://www.bitkeeper.com/
+URL:		https://www.bitkeeper.com/
 Source0:	http://www.bitmover.com/bk-client%{version}.shar.bz2
 Patch0:		bk-client-2.0-conflicting_types_for_getline_fix.diff
 Requires:	patch
